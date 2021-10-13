@@ -1,0 +1,43 @@
+.Main {
+    height: 100vh;
+    background-image: url(https://demos.creative-tim.com/material-kit-react/static/media/bg4.88963029.jpg);
+    background-size: cover;
+    padding: 0 20%;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: rgb(140, 243, 6);
+    font-size: 17px;
+    font-weight: 500;
+}
+.navbar ul .disable a {
+    color: rgba(139, 243, 116, 0.699);
+}
+.navbar ul li {
+    list-style: none;
+}
+.navbar ul {
+    padding: 20px 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.maintitle {
+    margin: auto;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+span {
+    color: rgb(140, 243, 6);
+}
+.Main h1 {
+    text-shadow: 5px 5px #614040;
+    font-size: 50px;
+}
+.Main h1,
+.Main p {
+    margin: 0;
+    color: white;
+}

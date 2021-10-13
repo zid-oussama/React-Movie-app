@@ -1,0 +1,26 @@
+.App {
+    background-color: #010a11;
+}
+.cards {
+    padding: 50px 5%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.searching {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.searching button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid rgb(170, 250, 9);
+    box-sizing: border-box;
+    margin: 30px auto;
+    width: 150px;
+    padding: 10px 20px;
+    cursor: pointer;
+}

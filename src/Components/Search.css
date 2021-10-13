@@ -1,0 +1,15 @@
+.search {
+    height: 40px;
+    text-align: center;
+}
+.search input {
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid rgb(140, 243, 6);
+    color: white;
+    text-align: center;
+}
+::placeholder {
+    text-align: center;
+    color: rgb(182, 182, 182);
+}
